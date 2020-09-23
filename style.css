@@ -1,0 +1,11 @@
+div {
+    height: 50px;
+    border: 1px solid goldenrod;
+    text-align: center;
+    padding: 10px;
+    background-color: #eee;
+}
+
+div:nth-child(odd) {
+    background-color: #fafa;
+}
